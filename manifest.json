@@ -1,10 +1,12 @@
 {
     "name": "LegionGaming_QOL",
     "description": "Quality of life modpack for Legion Gaming private server.",
-    "version_number": "1.0.0",
+    "version_number": "1.0.1",
     "website_url": "https://github.com/legion-gaming/valheim-modpack-qol",
     "dependencies": [
         "denikson-BepInExPack_Valheim-5.4.2105",
+        "Advize-PlantEasily-1.5.0",
+        "aedenthorn_mods-InstantMonsterLootDrop-0.5.0",
         "Azumatt-AAA_Crafting-1.0.9",
         "Azumatt-AllTheBases-1.0.5",
         "Azumatt-AzuAreaRepair-1.1.1",
@@ -13,17 +15,14 @@
         "Azumatt-AzuCraftyBoxes-1.1.9",
         "Azumatt-AzuExtendedPlayerInventory-1.1.8",
         "Azumatt-AzuHoverStats-1.0.9",
+        "Azumatt-AzuMiscPatches-1.1.5",
         "Azumatt-AzuWearNTearPatches-1.0.2",
+        "Azumatt-AzuWorkbenchTweaks-1.0.1",
+        "Azumatt-Official_BepInEx_ConfigurationManager-18.0.1",
         "Azumatt-Queue_Me_Maybe-1.1.0",
-        "OdinPlus-OdinsInventoryDiscard-1.0.2",
-        "Smoothbrain-ConversionSizeAndSpeed-1.0.11",
-        "JereKuusela-Server_devcommands-1.52.0",
-        "Azumatt-Official_BepInEx_ConfigurationManager-18.0.0",
-        "Mydayyy-ServerSideMap-1.3.8",
+        "Azumatt-Recycle_N_Reclaim-1.1.3",
         "BasilPanda-NoStamCosts-0.1.2",
-        "Azumatt-AzuMiscPatches-1.1.4",
         "Mokutan-MassFarming-1.5.0",
-        "aedenthorn_mods-InstantMonsterLootDrop-0.5.0",
-        "Azumatt-AzuWorkbenchTweaks-1.0.1"
+        "Smoothbrain-ConversionSizeAndSpeed-1.0.12"
     ]
 }
