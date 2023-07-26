@@ -4,6 +4,14 @@ Quality of life modpack for Legion Gaming private server.
 
 # Changelog
 
+## Release 1.0.2
+
+This release updates dependencies
+
+* Azumatt-AzuExtendedPlayerInventory from 1.1.8 to 1.2.0
+* Azumatt-Azumatt-AzuMiscPatches from 1.1.5 to 1.1.6
+* Smoothbrain-ConversionSizeAndSpeed from 1.0.12 to 1.0.13
+
 ## Release 1.0.1
 
 This release updates dependencies and moves some over to Legion-LegionGaming
