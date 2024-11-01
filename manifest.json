@@ -1,7 +1,7 @@
 {
     "name": "LegionGaming_QOL",
     "description": "Quality of life modpack for Legion Gaming private server.",
-    "version_number": "2.0.2",
+    "version_number": "2.0.3",
     "website_url": "https://github.com/legion-gaming/valheim-modpack-qol",
     "dependencies": [
         "Advize-PlantEasily-1.9.2",
@@ -10,7 +10,7 @@
         "Azumatt-AzuAreaRepair-1.1.5",
         "Azumatt-AzuAutoStore-3.0.4",
         "Azumatt-AzuClock-1.0.3",
-        "Azumatt-AzuCraftyBoxes-1.5.4",
+        "Azumatt-AzuCraftyBoxes-1.5.5",
         "Azumatt-AzuExtendedPlayerInventory-1.4.5",
         "Azumatt-AzuMiscPatches-1.2.5",
         "Azumatt-AzuWearNTearPatches-1.0.6",
